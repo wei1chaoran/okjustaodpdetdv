@@ -1,0 +1,857 @@
+﻿#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTINF:-1,斯玛特
+#genre#
+#EXTINF:-1,香港|翡翠台
+http://eu.huohuoaa.tech:1025/Smart.php?id=jade_twn
+#EXTINF:-1,香港|翡翠台 backup
+http://eu.huohuoaa.tech:1025/Smart.php?id=Jade_xue
+#EXTINF:-1,香港|iNews 新闻台
+http://eu.huohuoaa.tech:1025/Smart.php?id=inews_twn
+#EXTINF:-1,香港|J 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=j2_twn
+#EXTINF:-1,香港|珍珠台
+http://eu.huohuoaa.tech:1025/Smart.php?id=pearl_twn
+#EXTINF:-1,香港|凤凰香港
+http://eu.huohuoaa.tech:1025/Smart.php?id=hkphoenix_twn
+#EXTINF:-1,香港|HOY资讯台
+http://eu.huohuoaa.tech:1025/Smart.php?id=hoycaijing_twn
+#EXTINF:-1,香港|RHK 31
+http://eu.huohuoaa.tech:1025/Smart.php?id=rhk31_twn
+#EXTINF:-1,香港|VIUTV1
+http://eu.huohuoaa.tech:1025/Smart.php?id=viu1_twn
+#EXTINF:-1,香港|RHK 32
+http://eu.huohuoaa.tech:1025/Smart.php?id=rhk32_twn
+#EXTINF:-1,香港|凤凰卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=phoenixtv_hd
+#EXTINF:-1,香港|凤凰资讯
+http://eu.huohuoaa.tech:1025/Smart.php?id=phoenixinfo_hd
+#EXTINF:-1,香港|Viu6
+http://eu.huohuoaa.tech:1025/Smart.php?id=viusix_twn
+#EXTINF:-1,中国|CCTV-1 综合 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv1
+#EXTINF:-1,中国|CCTV-2 财经
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv2
+#EXTINF:-1,中国|CCTV-3 综艺 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv3
+#EXTINF:-1,中国|CCTV-4 中文国际
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv4
+#EXTINF:-1,中国|CCTV4 新闻台
+http://eu.huohuoaa.tech:1025/Smart.php?id=Cctv4
+#EXTINF:-1,中国|CCTV-7 军事农业
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv7
+#EXTINF:-1,中国|CCTV-8 电视剧 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv8hd
+#EXTINF:-1,中国|CCTV-9 记录 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv9hd
+#EXTINF:-1,中国|CCTV-10 科教 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv10hd
+#EXTINF:-1,中国|CCTV-11 戏曲
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv11
+#EXTINF:-1,中国|CCTV-12 社会与法
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv12
+#EXTINF:-1,中国|CCTV-13 新闻频道
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv13
+#EXTINF:-1,中国|CCTV-14 少儿
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv14
+#EXTINF:-1,中国|CCTV-6
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv6
+#EXTINF:-1,中国|CCTV-15 音乐
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv15
+#EXTINF:-1,中国|湖南卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=hunan_twn
+#EXTINF:-1,中国|浙江卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=zhejiang_twn
+#EXTINF:-1,中国|江苏卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=jiangsu_twn
+#EXTINF:-1,中国|深圳卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=shenzhen
+#EXTINF:-1,中国|福建东南卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=fujian
+#EXTINF:-1,中国|广东南方卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=nanfang_twn
+#EXTINF:-1,中国|广东卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=guangdongweishi_twn
+#EXTINF:-1,中国|北京卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=beijing
+#EXTINF:-1,中国|珠江台
+http://eu.huohuoaa.tech:1025/Smart.php?id=zhujiang
+#EXTINF:-1,中国|广西卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=guangxi
+#EXTINF:-1,中国|湖北卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=hubei
+#EXTINF:-1,中国|四川卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=sichuan_twn
+#EXTINF:-1,中国|东方卫视
+http://eu.huohuoaa.tech:1025/Smart.php?id=dongfangweishi_twn
+#EXTINF:-1,中国|CGTN
+http://eu.huohuoaa.tech:1025/Smart.php?id=CGTN
+#EXTINF:-1,中国|CCTV-5 体育频道
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv5
+#EXTINF:-1,中国|CCTV-5+ 体育赛事 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=cctv5plus
+#EXTINF:-1,体育频道|Astro Premier League 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_assp1
+#EXTINF:-1,体育频道|Astro EPL 1 backup
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_assp1x
+#EXTINF:-1,体育频道|Astro Premier League 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_assp2
+#EXTINF:-1,体育频道|Astro Grandstand
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_assp3
+#EXTINF:-1,体育频道|Astro Football
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_assp4
+#EXTINF:-1,体育频道|Astro Sports Plus
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_sportsplus
+#EXTINF:-1,体育频道|Astro Badminton 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_badminton1
+#EXTINF:-1,体育频道|Astro Badminton 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_badminton2
+#EXTINF:-1,体育频道|Astro W-Sports
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_assp5
+#EXTINF:-1,体育频道|Supersports 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=Assp1
+#EXTINF:-1,体育频道|Supersports 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=Assp2
+#EXTINF:-1,体育频道|Supersports 3
+http://eu.huohuoaa.tech:1025/Smart.php?id=Assp3
+#EXTINF:-1,体育频道|Supersports 4
+http://eu.huohuoaa.tech:1025/Smart.php?id=Assp4
+#EXTINF:-1,体育频道|WWE
+http://eu.huohuoaa.tech:1025/Smart.php?id=Wwe
+#EXTINF:-1,体育频道|Fight Sports
+http://eu.huohuoaa.tech:1025/Smart.php?id=Fs
+#EXTINF:-1,体育频道|NBA TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Nba
+#EXTINF:-1,体育频道|Astro Cricket
+http://eu.huohuoaa.tech:1025/Smart.php?id=Acricket
+#EXTINF:-1,体育频道|Astro Golf
+http://eu.huohuoaa.tech:1025/Smart.php?id=Agolf
+#EXTINF:-1,体育频道|Tnt Sports 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=6fac0aaead
+#EXTINF:-1,体育频道|TNT Sports 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=d9a76a79cc
+#EXTINF:-1,体育频道|TNT Sports 3
+http://eu.huohuoaa.tech:1025/Smart.php?id=5fea4d73db
+#EXTINF:-1,体育频道|TNT Sports 4
+http://eu.huohuoaa.tech:1025/Smart.php?id=tntsport4
+#EXTINF:-1,体育频道|Sony Ten 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=ten1_raj
+#EXTINF:-1,体育频道|Sony Ten 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=ten2_raj
+#EXTINF:-1,体育频道|Sony Ten 3
+http://eu.huohuoaa.tech:1025/Smart.php?id=ten3_raj
+#EXTINF:-1,体育频道|SPOTV 1 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_spotv
+#EXTINF:-1,体育频道|SPO TV 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=go_spotv2
+#EXTINF:-1,体育频道|Skysports F1
+http://eu.huohuoaa.tech:1025/Smart.php?id=tiankongf1
+#EXTINF:-1,体育频道|Skysports Cricket
+http://eu.huohuoaa.tech:1025/Smart.php?id=tiankongcricket
+#EXTINF:-1,体育频道|Skysports EPL
+http://eu.huohuoaa.tech:1025/Smart.php?id=tiankongepl
+#EXTINF:-1,体育频道|Skysports Main Event
+http://eu.huohuoaa.tech:1025/Smart.php?id=tiankongmain
+#EXTINF:-1,体育频道|Skysports News
+http://eu.huohuoaa.tech:1025/Smart.php?id=tiankongnews
+#EXTINF:-1,体育频道|Skysports Mix
+http://eu.huohuoaa.tech:1025/Smart.php?id=tiankongmix
+#EXTINF:-1,体育频道|爱尔达体育2台
+http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport2_twn
+#EXTINF:-1,体育频道|爱尔达体育3台
+http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport3_twn
+#EXTINF:-1,体育频道|Rugby Pass TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Rugbypasstv
+#EXTINF:-1,体育频道|RTM Sports HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Rtmsport
+#EXTINF:-1,体育频道|Arena
+http://eu.huohuoaa.tech:1025/Smart.php?id=Arena
+#EXTINF:-1,体育频道|Arena 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=Arena2
+#EXTINF:-1,体育频道|BolaArena 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=Bolaarena1
+#EXTINF:-1,体育频道|BolaArena 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=Bolaarena2
+#EXTINF:-1,体育频道|Astro Beinsports 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=Astrobein1
+#EXTINF:-1,体育频道|Astro Beinsports 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=Astrobein2
+#EXTINF:-1,体育频道|Astro Beinsports 3
+http://eu.huohuoaa.tech:1025/Smart.php?id=Astrobein3
+#EXTINF:-1,台湾|TVBS News 新闻台
+http://eu.huohuoaa.tech:1025/Smart.php?id=tvbs_n
+#EXTINF:-1,台湾|TVBS 欢乐台 （备份）
+http://eu.huohuoaa.tech:1025/Smart.php?id=tvbshuanle_twn
+#EXTINF:-1,台湾|TVBS HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=tvbs
+#EXTINF:-1,台湾|中天新闻 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=ctinews
+#EXTINF:-1,台湾|中天娱乐 CTI Entertaiment
+http://eu.huohuoaa.tech:1025/Smart.php?id=ctient
+#EXTINF:-1,台湾|中天综合 CTI Metro
+http://eu.huohuoaa.tech:1025/Smart.php?id=ctizhonghe
+#EXTINF:-1,台湾|中天亚洲台
+http://eu.huohuoaa.tech:1025/Smart.php?id=ctiasia_twn
+#EXTINF:-1,台湾|台视 TTV HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=ttv_taiwan
+#EXTINF:-1,台湾|台视新闻台
+http://eu.huohuoaa.tech:1025/Smart.php?id=ttvnews_twn
+#EXTINF:-1,台湾|台视综合台
+http://eu.huohuoaa.tech:1025/Smart.php?id=ttvzhonghe
+#EXTINF:-1,台湾|中视 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=zhongshihd_twn
+#EXTINF:-1,台湾|中视新闻台
+http://eu.huohuoaa.tech:1025/Smart.php?id=zhongshinews_twn
+#EXTINF:-1,台湾|民视 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=ftvhd_taiwan
+#EXTINF:-1,台湾|民视新闻台 FTV News
+http://eu.huohuoaa.tech:1025/Smart.php?id=ftvnew_taiwan
+#EXTINF:-1,台湾|民视台湾台
+http://eu.huohuoaa.tech:1025/Smart.php?id=ftvtaiwan_twn
+#EXTINF:-1,台湾|华视 CTS HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=ctshd_twn
+#EXTINF:-1,台湾|公视 CTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=ctv18_twn
+#EXTINF:-1,台湾|八大第一 GTV First
+http://eu.huohuoaa.tech:1025/Smart.php?id=badafirst
+#EXTINF:-1,台湾|八大综合 GTV Metro
+http://eu.huohuoaa.tech:1025/Smart.php?id=badazhonghe
+#EXTINF:-1,台湾|八大戏剧 GTV Drama
+http://eu.huohuoaa.tech:1025/Smart.php?id=badadrama
+#EXTINF:-1,台湾|八大娱乐 GTV Entertainment
+http://eu.huohuoaa.tech:1025/Smart.php?id=badaentertain
+#EXTINF:-1,台湾|HBO_HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=hbohd_twn
+#EXTINF:-1,台湾|HBO_HITS
+http://eu.huohuoaa.tech:1025/Smart.php?id=hbohit_twn
+#EXTINF:-1,台湾|Hollywood Movies
+http://eu.huohuoaa.tech:1025/Smart.php?id=hollywoodmovies_twn
+#EXTINF:-1,台湾|三立台湾 Sanli Taiwan
+http://eu.huohuoaa.tech:1025/Smart.php?id=sanlitaiwan
+#EXTINF:-1,台湾|三立戏剧台
+http://eu.huohuoaa.tech:1025/Smart.php?id=sanlixiju_twn
+#EXTINF:-1,台湾|三立综合 Sanli Metro
+http://eu.huohuoaa.tech:1025/Smart.php?id=sanlizhonghe
+#EXTINF:-1,台湾|三立都会台
+http://eu.huohuoaa.tech:1025/Smart.php?id=sanlidouhui
+#EXTINF:-1,台湾|东森新闻 ETTV News
+http://eu.huohuoaa.tech:1025/Smart.php?id=ettvnews
+#EXTINF:-1,台湾|CINEMAX
+http://eu.huohuoaa.tech:1025/Smart.php?id=cinemax_twn
+#EXTINF:-1,台湾|东森综合 ETTV Metro
+http://eu.huohuoaa.tech:1025/Smart.php?id=ettvzhonghe
+#EXTINF:-1,台湾|东森戏剧 ETTV Drama
+http://eu.huohuoaa.tech:1025/Smart.php?id=ettvdrama
+#EXTINF:-1,台湾|东森超视
+http://eu.huohuoaa.tech:1025/Smart.php?id=ettvsuper
+#EXTINF:-1,台湾|东森财经新闻 ETTV Business
+http://eu.huohuoaa.tech:1025/Smart.php?id=ettvcaijing_twn
+#EXTINF:-1,台湾|寰宇财经
+http://eu.huohuoaa.tech:1025/Smart.php?id=huanyutaiwan_twn
+#EXTINF:-1,台湾|寰宇新闻台
+http://eu.huohuoaa.tech:1025/Smart.php?id=huanyuxinwen_twn
+#EXTINF:-1,台湾|公视2
+http://eu.huohuoaa.tech:1025/Smart.php?id=ctv2_twn
+#EXTINF:-1,台湾|大爱1台
+http://eu.huohuoaa.tech:1025/Smart.php?id=daai_twn
+#EXTINF:-1,台湾|非凡新闻台
+http://eu.huohuoaa.tech:1025/Smart.php?id=feifannews_twn
+#EXTINF:-1,台湾|龙华戏剧 Lunghua Drama
+http://eu.huohuoaa.tech:1025/Smart.php?id=lunghuaxiju_twn
+#EXTINF:-1,台湾|龙华经典台
+http://eu.huohuoaa.tech:1025/Smart.php?id=lunghuajingdian_twn
+#EXTINF:-1,台湾|龙华偶像
+http://eu.huohuoaa.tech:1025/Smart.php?id=lunghuaidol_twn
+#EXTINF:-1,台湾|AXN Taiwan
+http://eu.huohuoaa.tech:1025/Smart.php?id=axn_twn
+#EXTINF:-1,台湾|靖天国际台
+http://eu.huohuoaa.tech:1025/Smart.php?id=jingtianintl_twn
+#EXTINF:-1,台湾|年代新闻
+http://eu.huohuoaa.tech:1025/Smart.php?id=niandainews_twn
+#EXTINF:-1,台湾|纬来日本台
+http://eu.huohuoaa.tech:1025/Smart.php?id=videolandjapan
+#EXTINF:-1,台湾|纬来电影台
+http://eu.huohuoaa.tech:1025/Smart.php?id=videolandmovie
+#EXTINF:-1,台湾|纬来体育台
+http://eu.huohuoaa.tech:1025/Smart.php?id=videolandsport
+#EXTINF:-1,台湾|纬来综合台
+http://eu.huohuoaa.tech:1025/Smart.php?id=videolandzonghe
+#EXTINF:-1,台湾|纬来育乐
+http://eu.huohuoaa.tech:1025/Smart.php?id=videolandyule
+#EXTINF:-1,台湾|纬来精彩
+http://eu.huohuoaa.tech:1025/Smart.php?id=videolandspecial_twn
+#EXTINF:-1,台湾|好消息 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=good2_twn
+#EXTINF:-1,台湾|大爱2台
+http://eu.huohuoaa.tech:1025/Smart.php?id=daai2_twn
+#EXTINF:-1,台湾|亚洲美食
+http://eu.huohuoaa.tech:1025/Smart.php?id=afc_twn
+#EXTINF:-1,台湾|美食星球
+http://eu.huohuoaa.tech:1025/Smart.php?id=foodplanet_twn
+#EXTINF:-1,台湾|亚洲旅游 TLC Asia
+http://eu.huohuoaa.tech:1025/Smart.php?id=tlc_twn
+#EXTINF:-1,台湾|东森电影 ETTV Movie
+http://eu.huohuoaa.tech:1025/Smart.php?id=ettvmovie
+#EXTINF:-1,台湾|阿里郎 Arirang
+http://eu.huohuoaa.tech:1025/Smart.php?id=arirang_twn
+#EXTINF:-1,台湾|博斯运动 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=bosisport1_twn
+#EXTINF:-1,台湾|博斯运动 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=bosisport2_twn
+#EXTINF:-1,台湾|博斯高球2 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=bosigolf2_twn
+#EXTINF:-1,台湾|博斯网球 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=bositennis_twn
+#EXTINF:-1,台湾|东森洋片 ETTV Western
+http://eu.huohuoaa.tech:1025/Smart.php?id=ettvwestern
+#EXTINF:-1,台湾|龙华洋片 Lunghua Western
+http://eu.huohuoaa.tech:1025/Smart.php?id=lunghuawestern_twn
+#EXTINF:-1,台湾|博斯无限
+http://eu.huohuoaa.tech:1025/Smart.php?id=bosiunlimited_twn
+#EXTINF:-1,台湾|MTV Live
+http://eu.huohuoaa.tech:1025/Smart.php?id=mtvhd_twn
+#EXTINF:-1,台湾|龙详时代
+http://eu.huohuoaa.tech:1025/Smart.php?id=lungxiangtime_twn
+#EXTINF:-1,台湾|EYETV 旅游
+http://eu.huohuoaa.tech:1025/Smart.php?id=eyetvtravel_twn
+#EXTINF:-1,台湾|靖天卡通台
+http://eu.huohuoaa.tech:1025/Smart.php?id=jingtiancartoon_twn
+#EXTINF:-1,台湾|EYETV 戏剧
+http://eu.huohuoaa.tech:1025/Smart.php?id=eyetvxiju_twn
+#EXTINF:-1,台湾|卫视中文台 Star Movies Chinese
+http://eu.huohuoaa.tech:1025/Smart.php?id=weishichinese_twn
+#EXTINF:-1,台湾|东森幼幼 Yoyo TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=yoyo_twn
+#EXTINF:-1,台湾|卫视电影台
+http://eu.huohuoaa.tech:1025/Smart.php?id=weishimovie_twn
+#EXTINF:-1,台湾|美亚电影
+http://eu.huohuoaa.tech:1025/Smart.php?id=meiyamovie_twn
+#EXTINF:-1,台湾|爱尔达影剧台
+http://eu.huohuoaa.tech:1025/Smart.php?id=eltayingju_twn
+#EXTINF:-1,台湾|爱尔达综合台
+http://eu.huohuoaa.tech:1025/Smart.php?id=eltazonghe_twn
+#EXTINF:-1,台湾|星卫电影
+http://eu.huohuoaa.tech:1025/Smart.php?id=xingwei_movie
+#EXTINF:-1,台湾|AFC 亚洲旅游台
+http://eu.huohuoaa.tech:1025/Smart.php?id=asiatravel_twn
+#EXTINF:-1,电影频道|Cinemax
+http://eu.huohuoaa.tech:1025/Smart.php?id=Cinemax
+#EXTINF:-1,电影频道|Animax
+http://eu.huohuoaa.tech:1025/Smart.php?id=Animax
+#EXTINF:-1,电影频道|Movies Now HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=moviesnow_raj
+#EXTINF:-1,电影频道|Star Movies HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=starmovies_raj
+#EXTINF:-1,电影频道|HBO Family
+http://eu.huohuoaa.tech:1025/Smart.php?id=Hbofamily
+#EXTINF:-1,电影频道|Hits
+http://eu.huohuoaa.tech:1025/Smart.php?id=Hits
+#EXTINF:-1,电影频道|Warner TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=WarnerTV
+#EXTINF:-1,电影频道|HBO HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Hbo
+#EXTINF:-1,电影频道|HBO Signature
+http://eu.huohuoaa.tech:1025/Smart.php?id=Hbosignature
+#EXTINF:-1,电影频道|HBO Hits
+http://eu.huohuoaa.tech:1025/Smart.php?id=Hbohitshd
+#EXTINF:-1,电影频道|SCM
+http://eu.huohuoaa.tech:1025/Smart.php?id=Weishimovie
+#EXTINF:-1,电影频道|Dreamworks
+http://eu.huohuoaa.tech:1025/Smart.php?id=Dreamworks
+#EXTINF:-1,电影频道|Thrill
+http://eu.huohuoaa.tech:1025/Smart.php?id=Thrill
+#EXTINF:-1,电影频道|Hits Movie
+http://eu.huohuoaa.tech:1025/Smart.php?id=Hitsmovie
+#EXTINF:-1,电影频道|One
+http://eu.huohuoaa.tech:1025/Smart.php?id=One
+#EXTINF:-1,电影频道|tvN Movie
+http://eu.huohuoaa.tech:1025/Smart.php?id=Tvnmovie
+#EXTINF:-1,电影频道|Celestial Classic
+http://eu.huohuoaa.tech:1025/Smart.php?id=Celestial2
+#EXTINF:-1,电影频道|Celestial Movies HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Celestialindo
+#EXTINF:-1,电影频道|Axn HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Axn
+#EXTINF:-1,电影频道|Paramount Network
+http://eu.huohuoaa.tech:1025/Smart.php?id=Paramountnetwork
+#EXTINF:-1,电影频道|Astrol Kplus
+http://eu.huohuoaa.tech:1025/Smart.php?id=Kplus
+#EXTINF:-1,电影频道|Rock Actions
+http://eu.huohuoaa.tech:1025/Smart.php?id=Rockaction
+#EXTINF:-1,电影频道|Rock Entertainment
+http://eu.huohuoaa.tech:1025/Smart.php?id=Rockentertain
+#EXTINF:-1,纪录频道|Natgeo_HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=natgeohd_twn
+#EXTINF:-1,纪录频道|NatGeo_Wild HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=natgeowild_twn
+#EXTINF:-1,纪录频道|Animal_Planet
+http://eu.huohuoaa.tech:1025/Smart.php?id=animalplanet_twn
+#EXTINF:-1,纪录频道|Discovery Asia
+http://eu.huohuoaa.tech:1025/Smart.php?id=discoverytwn_twn
+#EXTINF:-1,纪录频道|CI
+http://eu.huohuoaa.tech:1025/Smart.php?id=ci_twn
+#EXTINF:-1,纪录频道|Discovery HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=discoveryhd_twn
+#EXTINF:-1,纪录频道|NatGeo HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Natgeo
+#EXTINF:-1,纪录频道|Fashion TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=fashiontv_twn
+#EXTINF:-1,纪录频道|History
+http://eu.huohuoaa.tech:1025/Smart.php?id=History
+#EXTINF:-1,纪录频道|BBC Earth HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=bbcearth_twn
+#EXTINF:-1,纪录频道|BBC Earth Lifestyle
+http://eu.huohuoaa.tech:1025/Smart.php?id=bbclifestyle_twn
+#EXTINF:-1,纪录频道|NatGeo Wild HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Natgeowild
+#EXTINF:-1,纪录频道|Animal Planet (Eng)
+http://eu.huohuoaa.tech:1025/Smart.php?id=AnimalPlanet
+#EXTINF:-1,纪录频道|TLC
+http://eu.huohuoaa.tech:1025/Smart.php?id=Tlc
+#EXTINF:-1,纪录频道|Foodnetwork Hd
+http://eu.huohuoaa.tech:1025/Smart.php?id=Foodnetwork
+#EXTINF:-1,纪录频道|HGTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=HGTV
+#EXTINF:-1,新闻频道|Skynews
+http://eu.huohuoaa.tech:1025/Smart.php?id=skynews_twn
+#EXTINF:-1,新闻频道|ABC News
+http://eu.huohuoaa.tech:1025/Smart.php?id=abcnews_glo
+#EXTINF:-1,新闻频道|CBS HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=cbshd_glo
+#EXTINF:-1,新闻频道|CBSN HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=cbsn_glo
+#EXTINF:-1,新闻频道|France 24
+http://eu.huohuoaa.tech:1025/Smart.php?id=france24_twn
+#EXTINF:-1,新闻频道|DW (Deutsch)
+http://eu.huohuoaa.tech:1025/Smart.php?id=dw_twn
+#EXTINF:-1,新闻频道|NHK World
+http://eu.huohuoaa.tech:1025/Smart.php?id=nhkworld_japan
+#EXTINF:-1,新闻频道|Fox News
+http://eu.huohuoaa.tech:1025/Smart.php?id=foxnews_twn
+#EXTINF:-1,新闻频道|CNN International
+http://eu.huohuoaa.tech:1025/Smart.php?id=Cnn
+#EXTINF:-1,新闻频道|CNN backup
+http://eu.huohuoaa.tech:1025/Smart.php?id=cnn_twn
+#EXTINF:-1,新闻频道|CNBC
+http://eu.huohuoaa.tech:1025/Smart.php?id=cnbc_twn
+#EXTINF:-1,新闻频道|CNA
+http://eu.huohuoaa.tech:1025/Smart.php?id=cna
+#EXTINF:-1,新闻频道|BBC World News
+http://eu.huohuoaa.tech:1025/Smart.php?id=bbcnews_twn
+#EXTINF:-1,新闻频道|BBC World News
+http://eu.huohuoaa.tech:1025/Smart.php?id=Bbcnews
+#EXTINF:-1,新闻频道|Bloomberg News
+http://eu.huohuoaa.tech:1025/Smart.php?id=bloomberg_twn
+#EXTINF:-1,新闻频道|Al-Jazeera
+http://eu.huohuoaa.tech:1025/Smart.php?id=aljazeera_twn
+#EXTINF:-1,儿童频道|Baby TV Eng
+http://eu.huohuoaa.tech:1025/Smart.php?id=Babytv
+#EXTINF:-1,儿童频道|CBeebies
+http://eu.huohuoaa.tech:1025/Smart.php?id=Cbeebies
+#EXTINF:-1,儿童频道|Kids TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=KidsTV
+#EXTINF:-1,儿童频道|Momo TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=momo1_twn
+#EXTINF:-1,儿童频道|Baby TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=babytv_twn
+#EXTINF:-1,儿童频道|MiaoMi
+http://eu.huohuoaa.tech:1025/Smart.php?id=MiaoMi
+#EXTINF:-1,儿童频道|Cartoon Network
+http://eu.huohuoaa.tech:1025/Smart.php?id=Cn
+#EXTINF:-1,儿童频道|Nickelodeon
+http://eu.huohuoaa.tech:1025/Smart.php?id=Nickelodeon
+#EXTINF:-1,儿童频道|Nick Jr
+http://eu.huohuoaa.tech:1025/Smart.php?id=Nickjr
+#EXTINF:-1,新加坡|Channel 5
+http://eu.huohuoaa.tech:1025/Smart.php?id=Channel5HD
+#EXTINF:-1,新加坡|Channel 8
+http://eu.huohuoaa.tech:1025/Smart.php?id=Channel8HD
+#EXTINF:-1,新加坡|Suria
+http://eu.huohuoaa.tech:1025/Smart.php?id=Suria
+#EXTINF:-1,新加坡|Channel U
+http://eu.huohuoaa.tech:1025/Smart.php?id=ChannelU
+#EXTINF:-1,新加坡|Vasantham
+http://eu.huohuoaa.tech:1025/Smart.php?id=Vasantham
+#EXTINF:-1,新加坡|CNA backup
+http://eu.huohuoaa.tech:1025/Smart.php?id=cna_twn
+#EXTINF:-1,新加坡|MeWatch Ch 5
+http://eu.huohuoaa.tech:1025/Smart.php?id=Mewatch_ch5
+#EXTINF:-1,新加坡|MeWatch Ch 8
+http://eu.huohuoaa.tech:1025/Smart.php?id=Mewatch_ch8
+#EXTINF:-1,新加坡|MeWatch Ch U
+http://eu.huohuoaa.tech:1025/Smart.php?id=Mewatch_chU
+#EXTINF:-1,新加坡|MeWatch Suria
+http://eu.huohuoaa.tech:1025/Smart.php?id=Mewatch_Suria
+#EXTINF:-1,新加坡|MeWatch Vasantham
+http://eu.huohuoaa.tech:1025/Smart.php?id=Mewatch_Vasantham
+#EXTINF:-1,新加坡|MeWatch CNA
+http://eu.huohuoaa.tech:1025/Smart.php?id=Mewatch_cna
+#EXTINF:-1,马来西亚|TV1
+http://eu.huohuoaa.tech:1025/Smart.php?id=TV1
+#EXTINF:-1,马来西亚|TV1 backup
+http://eu.huohuoaa.tech:1025/Smart.php?id=TV1_backup
+#EXTINF:-1,马来西亚|TV2
+http://eu.huohuoaa.tech:1025/Smart.php?id=TV2
+#EXTINF:-1,马来西亚|TV3
+http://eu.huohuoaa.tech:1025/Smart.php?id=TV3
+#EXTINF:-1,马来西亚|TV3 SD
+http://eu.huohuoaa.tech:1025/Smart.php?id=TV3_mega
+#EXTINF:-1,马来西亚|NTV7
+http://eu.huohuoaa.tech:1025/Smart.php?id=NTV7
+#EXTINF:-1,马来西亚|TV8
+http://eu.huohuoaa.tech:1025/Smart.php?id=TV8
+#EXTINF:-1,马来西亚|TV9
+http://eu.huohuoaa.tech:1025/Smart.php?id=TV9
+#EXTINF:-1,马来西亚|Ria
+http://eu.huohuoaa.tech:1025/Smart.php?id=Ria-0
+#EXTINF:-1,马来西亚|Ria-3
+http://eu.huohuoaa.tech:1025/Smart.php?id=Ria_backup
+#EXTINF:-1,马来西亚|Al-Hijrah
+http://eu.huohuoaa.tech:1025/Smart.php?id=Alhijrah
+#EXTINF:-1,马来西亚|Al-Hijrah backup
+http://eu.huohuoaa.tech:1025/Smart.php?id=Alhijrah_backup
+#EXTINF:-1,马来西亚|Awani
+http://eu.huohuoaa.tech:1025/Smart.php?id=Awani
+#EXTINF:-1,马来西亚|Bernama
+http://eu.huohuoaa.tech:1025/Smart.php?id=Bernama
+#EXTINF:-1,马来西亚|Prima
+http://eu.huohuoaa.tech:1025/Smart.php?id=Prima-0
+#EXTINF:-1,马来西亚|Prima backup
+http://eu.huohuoaa.tech:1025/Smart.php?id=AAprima1
+#EXTINF:-1,马来西亚|Prima backup 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=AAprima
+#EXTINF:-1,马来西亚|Ceria
+http://eu.huohuoaa.tech:1025/Smart.php?id=Ceria
+#EXTINF:-1,马来西亚|Astro MTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=AstroMTV
+#EXTINF:-1,马来西亚|Mecca Live HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=quran_mido
+#EXTINF:-1,马来西亚|Madinah HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=sunnah_mido
+#EXTINF:-1,马来西亚|Oasis
+http://eu.huohuoaa.tech:1025/Smart.php?id=Oasis
+#EXTINF:-1,马来西亚|Siar
+http://eu.huohuoaa.tech:1025/Smart.php?id=Siar
+#EXTINF:-1,马来西亚|Citra
+http://eu.huohuoaa.tech:1025/Smart.php?id=AAcitra
+#EXTINF:-1,马来西亚|Citra backup
+http://eu.huohuoaa.tech:1025/Smart.php?id=AAcitra1
+#EXTINF:-1,马来西亚|Sensasi
+http://eu.huohuoaa.tech:1025/Smart.php?id=Sensasi
+#EXTINF:-1,马来西亚|Aura
+http://eu.huohuoaa.tech:1025/Smart.php?id=Aura
+#EXTINF:-1,马来西亚|Rania
+http://eu.huohuoaa.tech:1025/Smart.php?id=Rania
+#EXTINF:-1,马来西亚|KBS World
+http://eu.huohuoaa.tech:1025/Smart.php?id=KBS
+#EXTINF:-1,马来西亚|Boo
+http://eu.huohuoaa.tech:1025/Smart.php?id=Boo
+#EXTINF:-1,马来西亚|Awesome TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Dsangat
+#EXTINF:-1,马来西亚|Astro Sonypix
+http://eu.huohuoaa.tech:1025/Smart.php?id=Asonypix
+#EXTINF:-1,马来西亚|Sony HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=SetOne
+#EXTINF:-1,马来西亚|TvN
+http://eu.huohuoaa.tech:1025/Smart.php?id=TVN
+#EXTINF:-1,马来西亚|AEC
+http://eu.huohuoaa.tech:1025/Smart.php?id=AEC
+#EXTINF:-1,马来西亚|华丽台 HD （Wah Lai Toi）
+http://eu.huohuoaa.tech:1025/Smart.php?id=Wlt
+#EXTINF:-1,马来西亚|欢喜台 HD （Hua Hee Tai）
+http://eu.huohuoaa.tech:1025/Smart.php?id=Huahee
+#EXTINF:-1,马来西亚|Astro QJ
+http://eu.huohuoaa.tech:1025/Smart.php?id=Quanjia
+#EXTINF:-1,马来西亚|TVB Jade
+http://eu.huohuoaa.tech:1025/Smart.php?id=Tvbjade
+#EXTINF:-1,马来西亚|TVB Asia
+http://eu.huohuoaa.tech:1025/Smart.php?id=Tvbasia
+#EXTINF:-1,马来西亚|TVB Entertainment
+http://eu.huohuoaa.tech:1025/Smart.php?id=Tvbentertainment
+#EXTINF:-1,马来西亚|TVB Classic
+http://eu.huohuoaa.tech:1025/Smart.php?id=Tvbclassic
+#EXTINF:-1,马来西亚|AOD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Aodhd
+#EXTINF:-1,马来西亚|TVB 星河台 Xing He
+http://eu.huohuoaa.tech:1025/Smart.php?id=Xinhe
+#EXTINF:-1,马来西亚|爱奇艺 iQiyi
+http://eu.huohuoaa.tech:1025/Smart.php?id=Qiyi
+#EXTINF:-1,马来西亚|Goshop
+http://eu.huohuoaa.tech:1025/Smart.php?id=Goshop
+#EXTINF:-1,马来西亚|Celestial Movies HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Celestial
+#EXTINF:-1,马来西亚|Astro LOL
+http://eu.huohuoaa.tech:1025/Smart.php?id=Astro_lol
+#EXTINF:-1,马来西亚|Astro Rusi
+http://eu.huohuoaa.tech:1025/Smart.php?id=Rusi
+#EXTINF:-1,马来西亚|WION
+http://eu.huohuoaa.tech:1025/Smart.php?id=Wion
+#EXTINF:-1,马来西亚|RTM Asean
+http://eu.huohuoaa.tech:1025/Smart.php?id=Rtmasean
+#EXTINF:-1,印度尼西亚|TVRI National
+http://eu.huohuoaa.tech:1025/Smart.php?id=TVRI
+#EXTINF:-1,印度尼西亚|RCTI
+http://eu.huohuoaa.tech:1025/Smart.php?id=Rcti
+#EXTINF:-1,印度尼西亚|Kompass TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Kompass
+#EXTINF:-1,印度尼西亚|Berita Satu
+http://eu.huohuoaa.tech:1025/Smart.php?id=BeritaSatu_eko
+#EXTINF:-1,印度尼西亚|Indosiar HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Indosiar
+#EXTINF:-1,印度尼西亚|AnTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Antv
+#EXTINF:-1,印度尼西亚|MNC TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Mnctv
+#EXTINF:-1,印度尼西亚|Trans 7
+http://eu.huohuoaa.tech:1025/Smart.php?id=Trans7_eko
+#EXTINF:-1,印度尼西亚|Transtv
+http://eu.huohuoaa.tech:1025/Smart.php?id=Transtv
+#EXTINF:-1,印度尼西亚|JTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=JTV_eko
+#EXTINF:-1,印度尼西亚|Metro TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=metrotv_eko
+#EXTINF:-1,印度尼西亚|SCTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=SCTV
+#EXTINF:-1,印度尼西亚|Tvone
+http://eu.huohuoaa.tech:1025/Smart.php?id=Tvone
+#EXTINF:-1,印度尼西亚|TVMU
+http://eu.huohuoaa.tech:1025/Smart.php?id=TVMU_eko
+#EXTINF:-1,印度尼西亚|GTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Gtv
+#EXTINF:-1,印度尼西亚|RTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Rtv
+#EXTINF:-1,印度尼西亚|Jak TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=JakTV
+#EXTINF:-1,印度尼西亚|iNews TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Inewstv
+#EXTINF:-1,印度尼西亚|Daai TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=DaaiTV
+#EXTINF:-1,印度尼西亚|Net TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=NetTV
+#EXTINF:-1,印度尼西亚|EWTN
+http://eu.huohuoaa.tech:1025/Smart.php?id=Ewtn
+#EXTINF:-1,印度尼西亚|AlQuran AlKareem
+http://eu.huohuoaa.tech:1025/Smart.php?id=AlQuran
+#EXTINF:-1,印度尼西亚|Tawaf TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=TawafTV
+#EXTINF:-1,印度尼西亚|Vision Prime
+http://eu.huohuoaa.tech:1025/Smart.php?id=VisionPrime
+#EXTINF:-1,印度尼西亚|Muslim TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=MuslimTV
+#EXTINF:-1,印度尼西亚|Music TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=MusicTV
+#EXTINF:-1,印度尼西亚|Lifestyle&Fashion
+http://eu.huohuoaa.tech:1025/Smart.php?id=Lifestyle
+#EXTINF:-1,印度尼西亚|Entertain
+http://eu.huohuoaa.tech:1025/Smart.php?id=Entertain
+#EXTINF:-1,印度|Sun TV HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Suntv
+#EXTINF:-1,印度|Star Vijay
+http://eu.huohuoaa.tech:1025/Smart.php?id=Starvijay
+#EXTINF:-1,印度|Colors Tamil
+http://eu.huohuoaa.tech:1025/Smart.php?id=Colorstam
+#EXTINF:-1,印度|Sun Music
+http://eu.huohuoaa.tech:1025/Smart.php?id=Sunmusic
+#EXTINF:-1,印度|Astro Sunlife
+http://eu.huohuoaa.tech:1025/Smart.php?id=Sunlife
+#EXTINF:-1,印度|Astro Vaanavil
+http://eu.huohuoaa.tech:1025/Smart.php?id=Vaanavil
+#EXTINF:-1,印度|Zee Tamil
+http://eu.huohuoaa.tech:1025/Smart.php?id=Zeetamil
+#EXTINF:-1,印度|Zee Business
+http://eu.huohuoaa.tech:1025/Smart.php?id=Zeebusiness
+#EXTINF:-1,印度|News 18 Tamil
+http://eu.huohuoaa.tech:1025/Smart.php?id=news18tamil_raj
+#EXTINF:-1,印度|Adithya
+http://eu.huohuoaa.tech:1025/Smart.php?id=Adithya
+#EXTINF:-1,印度|Makkal TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Makkaltv
+#EXTINF:-1,印度|Zee Action
+http://eu.huohuoaa.tech:1025/Smart.php?id=Zeeaction
+#EXTINF:-1,印度|Astro KTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=Astroktv
+#EXTINF:-1,印度|Zee TV HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Zeetvhd
+#EXTINF:-1,印度|Zee Cinema HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Zeecinemahd
+#EXTINF:-1,印度|Color HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Colorhd
+#EXTINF:-1,印度|Starplus HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Starplushd
+#EXTINF:-1,印度|Picture HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=Npicture
+#EXTINF:-1,印度|Zee News
+http://eu.huohuoaa.tech:1025/Smart.php?id=Zeenews
+#EXTINF:-1,印度|Asianet
+http://eu.huohuoaa.tech:1025/Smart.php?id=asianet_raj
+#EXTINF:-1,印度|Asianet News
+http://eu.huohuoaa.tech:1025/Smart.php?id=asianetnews_raj
+#EXTINF:-1,印度|Discovery World Tamil
+http://eu.huohuoaa.tech:1025/Smart.php?id=discoveryworldtam_raj
+#EXTINF:-1,印度|History Tamil
+http://eu.huohuoaa.tech:1025/Smart.php?id=historytam_raj
+#EXTINF:-1,印度|NatGeo Tamil
+http://eu.huohuoaa.tech:1025/Smart.php?id=natgeotamil_raj
+#EXTINF:-1,印度|Natgeo Wild Tamil
+http://eu.huohuoaa.tech:1025/Smart.php?id=natgeowildtamil_raj
+#EXTINF:-1,印度|Discovery Kids Tamil
+http://eu.huohuoaa.tech:1025/Smart.php?id=discoverykidtamil_raj
+#EXTINF:-1,印度|Discovery Tamil
+http://eu.huohuoaa.tech:1025/Smart.php?id=discoverytamil_raj
+#EXTINF:-1,印度|Sony Yay Tamil
+http://eu.huohuoaa.tech:1025/Smart.php?id=sonyyaytam_raj
+#EXTINF:-1,印度|Sun TV India
+http://eu.huohuoaa.tech:1025/Smart.php?id=suntv_raj
+#EXTINF:-1,印度|Starmaa HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=starmaa_raj
+#EXTINF:-1,印度|Starmaa Movies HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=starmaamovies_raj
+#EXTINF:-1,印度|Bollyone
+http://eu.huohuoaa.tech:1025/Smart.php?id=Bollyone
+#EXTINF:-1,印度|Vijay Super
+http://eu.huohuoaa.tech:1025/Smart.php?id=vijaysuper_raj
+#EXTINF:-1,印度|Vellithirai
+http://eu.huohuoaa.tech:1025/Smart.php?id=Vellithirai
+#EXTINF:-1,泰国|Channel 3 Thailand
+http://eu.huohuoaa.tech:1025/Smart.php?id=ch3_pat
+#EXTINF:-1,泰国|Channel 5 Thailand
+http://eu.huohuoaa.tech:1025/Smart.php?id=ch5_pat
+#EXTINF:-1,泰国|Channel 7 Thailand
+http://eu.huohuoaa.tech:1025/Smart.php?id=ch7_pat
+#EXTINF:-1,泰国|MCOT HD Thailand-1
+http://eu.huohuoaa.tech:1025/Smart.php?id=mcot_pat
+#EXTINF:-1,泰国|PPTV Thailand1
+http://eu.huohuoaa.tech:1025/Smart.php?id=pptv_pat
+#EXTINF:-1,泰国|Thai Thai
+http://eu.huohuoaa.tech:1025/Smart.php?id=thaithai_pat
+#EXTINF:-1,泰国|Amarin
+http://eu.huohuoaa.tech:1025/Smart.php?id=amarin_pat
+#EXTINF:-1,泰国|Ch 8
+http://eu.huohuoaa.tech:1025/Smart.php?id=ch8_pat
+#EXTINF:-1,泰国|GmmOne
+http://eu.huohuoaa.tech:1025/Smart.php?id=gmmone_pat
+#EXTINF:-1,泰国|Mono
+http://eu.huohuoaa.tech:1025/Smart.php?id=mono_pat
+#EXTINF:-1,泰国|Thairath
+http://eu.huohuoaa.tech:1025/Smart.php?id=thairath_pat
+#EXTINF:-1,泰国|tpbs
+http://eu.huohuoaa.tech:1025/Smart.php?id=tpbs_pat
+#EXTINF:-1,泰国|Workpoint
+http://eu.huohuoaa.tech:1025/Smart.php?id=workpoint_pat
+#EXTINF:-1,泰国|Gmm Channel
+http://eu.huohuoaa.tech:1025/Smart.php?id=gmmchannel_pat
+#EXTINF:-1,泰国|Nation
+http://eu.huohuoaa.tech:1025/Smart.php?id=nation_pat
+#EXTINF:-1,泰国|Tnn24
+http://eu.huohuoaa.tech:1025/Smart.php?id=tnn24_pat
+#EXTINF:-1,泰国|Nbt
+http://eu.huohuoaa.tech:1025/Smart.php?id=nbt_pat
+#EXTINF:-1,泰国|New
+http://eu.huohuoaa.tech:1025/Smart.php?id=new_pat
+#EXTINF:-1,泰国|TPTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=tptv_pat
+#EXTINF:-1,英国|BBC 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=bbc1_antik
+#EXTINF:-1,英国|BBC 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=bbc2_antik
+#EXTINF:-1,英国|CBBC
+http://eu.huohuoaa.tech:1025/Smart.php?id=cbbc_antik
+#EXTINF:-1,英国|More4
+http://eu.huohuoaa.tech:1025/Smart.php?id=more4_antik
+#EXTINF:-1,英国|Freesports
+http://eu.huohuoaa.tech:1025/Smart.php?id=freesports_antik
+#EXTINF:-1,英国|Pick TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=picktv_antik
+#EXTINF:-1,英国|itv 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=itv1_antik
+#EXTINF:-1,英国|itv 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=itv2_antik
+#EXTINF:-1,英国|Euronews
+http://eu.huohuoaa.tech:1025/Smart.php?id=euronews_antik
+#EXTINF:-1,英国|Channel 4
+http://eu.huohuoaa.tech:1025/Smart.php?id=channel4_antik
+#EXTINF:-1,英国|BBC World News
+http://eu.huohuoaa.tech:1025/Smart.php?id=bbcworldnews_antik
+#EXTINF:-1,越南|ANTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_antv
+#EXTINF:-1,越南|VTV 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_vtv1
+#EXTINF:-1,越南|VTV 7
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_vtv7
+#EXTINF:-1,越南|HTV 7
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_htv7
+#EXTINF:-1,越南|HTV 9
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_htv9
+#EXTINF:-1,越南|BPTV 2
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_bptv2
+#EXTINF:-1,越南|BRT HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_brt
+#EXTINF:-1,越南|Ca Mau TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_camautv
+#EXTINF:-1,越南|Danang TV1 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_danangtv1
+#EXTINF:-1,越南|Danang TV2 HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_danangtv2
+#EXTINF:-1,越南|HBTV HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_hbtv
+#EXTINF:-1,越南|PTTH 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=viet_ptth1
+#EXTINF:-1,韩国|Arirang HD
+http://eu.huohuoaa.tech:1025/Smart.php?id=arirang_korea
+#EXTINF:-1,韩国|Yonhap News
+http://eu.huohuoaa.tech:1025/Smart.php?id=yonhapnews_korea
+#EXTINF:-1,韩国|CBS
+http://eu.huohuoaa.tech:1025/Smart.php?id=cbs_korea
+#EXTINF:-1,韩国|EBS 1
+http://eu.huohuoaa.tech:1025/Smart.php?id=ebs1_korea
+#EXTINF:-1,韩国|EBS2
+http://eu.huohuoaa.tech:1025/Smart.php?id=ebs2_korea
+#EXTINF:-1,韩国|EBS Plus2
+http://eu.huohuoaa.tech:1025/Smart.php?id=ebsplus2_korea
+#EXTINF:-1,韩国|SBS Plus
+http://eu.huohuoaa.tech:1025/Smart.php?id=sbsplus_korea
+#EXTINF:-1,韩国|YTN
+http://eu.huohuoaa.tech:1025/Smart.php?id=ytn_korea
+#EXTINF:-1,韩国|KBS World 24
+http://eu.huohuoaa.tech:1025/Smart.php?id=kbsworld24_korea
+#EXTINF:-1,韩国|YTN Science
+http://eu.huohuoaa.tech:1025/Smart.php?id=ytnscience_korea
+#EXTINF:-1,韩国|YTN Korean
+http://eu.huohuoaa.tech:1025/Smart.php?id=ytnkorean_korea
+#EXTINF:-1,韩国|YTN DMB
+http://eu.huohuoaa.tech:1025/Smart.php?id=ytndmb_korea
+#EXTINF:-1,韩国|Apps TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=appongoogle_korea
+#EXTINF:-1,韩国|All the Kpop
+http://eu.huohuoaa.tech:1025/Smart.php?id=allthekpop_korea
+#EXTINF:-1,韩国|J the Kpop
+http://eu.huohuoaa.tech:1025/Smart.php?id=jthekpop_korea
+#EXTINF:-1,韩国|EBS Kids
+http://eu.huohuoaa.tech:1025/Smart.php?id=ebskids_korea
+#EXTINF:-1,韩国|CGNTV
+http://eu.huohuoaa.tech:1025/Smart.php?id=cgntv_korea
+#EXTINF:-1,日本|NHK-総合-2
+http://eu.huohuoaa.tech:1025/Smart.php?id=nhkg_japan
+#EXTINF:-1,日本|NHK-E
+http://eu.huohuoaa.tech:1025/Smart.php?id=nhke_japan
+#EXTINF:-1,日本|テレビ朝日 Asahi TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=asahitv_japan
+#EXTINF:-1,日本|JET 綜合
+http://eu.huohuoaa.tech:1025/Smart.php?id=jettv_japan
+#EXTINF:-1,日本|テレビ東京 Tokyo TV
+http://eu.huohuoaa.tech:1025/Smart.php?id=tokyotv_japan
+#EXTINF:-1,日本|TOKYOMX
+http://eu.huohuoaa.tech:1025/Smart.php?id=tokyomx_japan
+#EXTINF:-1,日本|NHKBS1
+http://eu.huohuoaa.tech:1025/Smart.php?id=nhkbs1_japan
+#EXTINF:-1,日本|NHKBSプレミア Premium
+http://eu.huohuoaa.tech:1025/Smart.php?id=nhkpremium_japan
+#EXTINF:-1,日本|BSジャパン 181
+http://eu.huohuoaa.tech:1025/Smart.php?id=bs181_japan
+#EXTINF:-1,日本|BSフジ BS Fuji
+http://eu.huohuoaa.tech:1025/Smart.php?id=bsfuji_japan
+#EXTINF:-1,日本|CNA Japan
+http://eu.huohuoaa.tech:1025/Smart.php?id=cna_japan
+#EXTINF:-1,日本|BS-TBS
+http://eu.huohuoaa.tech:1025/Smart.php?id=bstbs_japan
+#EXTINF:-1,日本|NHK Oaska
+http://eu.huohuoaa.tech:1025/Smart.php?id=nhkosaka_japan
