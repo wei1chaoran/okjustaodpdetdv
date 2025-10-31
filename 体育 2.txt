@@ -1,0 +1,15 @@
+Export from 影音宝 - 听你想听的，看你想看的
+劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力足球,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+咪咕体育,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+五星体育频道,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+NEWTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
+NEWTV超级体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
+NEWTV精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+Turkmen Спорт HD,https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+Turkmen Спорт HD,https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+Turkmen Спорт HD,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+НТВ+ Спорт,https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
